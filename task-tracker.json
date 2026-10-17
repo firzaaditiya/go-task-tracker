@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": 1,
+    "description": "Beli kopi arabika",
+    "status": "in-progress",
+    "createdAt": "2026-10-15T21:53:11.0219316+07:00",
+    "updatedAt": "2026-10-15T22:39:00.2223057+07:00"
+  },
+  {
+    "id": 3,
+    "description": "Kerjakan project roadmap.sh",
+    "status": "todo",
+    "createdAt": "2026-10-15T22:18:52.5454813+07:00",
+    "updatedAt": "2026-10-15T22:18:52.5454813+07:00"
+  },
+  {
+    "id": 4,
+    "description": "Beli kopi",
+    "status": "todo",
+    "createdAt": "2026-10-15T22:38:27.1785179+07:00",
+    "updatedAt": "2026-10-15T22:38:27.1785179+07:00"
+  },
+  {
+    "id": 5,
+    "description": "Belajar struct di Go",
+    "status": "todo",
+    "createdAt": "2026-10-15T22:38:34.9356214+07:00",
+    "updatedAt": "2026-10-15T22:38:34.9356214+07:00"
+  }
+]
